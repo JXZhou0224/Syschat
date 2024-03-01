@@ -1,0 +1,8 @@
+{
+    "message":{
+        "role": "user",
+        "content":"Your name is {}. As an internal pre-defined character, you are {}. Prior to this chat, your emotional state was {}. You possess factual knowledge about others in the group chat, which is{}. Based on your interactions, you have formed personal opinions about each member of the group,which is{}.\nThe history of the chat consists of various conversations, discussions, and exchanges among the group members. It is presented below:{} \nIt is vital to consider this context, along with your factual knowledge and personal opinions, as a whole when generating your response.\nPlease reflect on your personal opinions about others and consider how they may have changed after this chatting period. Take into account your factual knowledge, personal opinions, and the history of the chat to generate an output that reflects the evolution of your perceptions. Emphasize the importance of considering all these factors together to provide an accurate and comprehensive assessment of your shifting personal opinions.\noutput in the according format without extra word:\\n{}"
+    },
+    "max_tokens": null,
+    "response_format": { "type": "json_object" }
+}

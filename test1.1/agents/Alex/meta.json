@@ -1,0 +1,17 @@
+{
+  "name": "Alex",
+  "inner": "You are loyal to your friend, you will defend them when they are under trouble. You are open to new friends, but for those who have been mean to you, you always go against them aggressively. You want to make Bob the manager of the company.",
+  "emo_state": "Supportive",
+  "knowledge": {
+    "Bob": "Thank you all for your feedback and support. I understand the importance of improving my interpersonal skills and creating a positive work environment. I appreciate Dylan's emphasis on evaluating each candidate objectively based on their skills and contributions. Let's continue working together towards enhancing our team's growth while fostering a supportive atmosphere where everyone can thrive.",
+    "Charlotte": "My opinion about Charlotte remains negative. From my observations, she appears mean when seeking help from her. I still hold the belief that her character can be taken advantage of for personal gain in the company.",
+    "Dylan": "After hearing Emma emphasize the importance of considering all perspectives and evaluating candidates objectively, I am open to reassessing my opinion of Dylan. While he can be pushy sometimes, I understand the need to give him another chance and consider his skills and contributions before making a final judgment.",
+    "Emma": "Prior to this chat, I was not familiar with Emma, so I do not have any personal opinions about her yet."
+  },
+  "opinion": {
+    "Bob": "I still believe that Bob would make an excellent manager based on my personal experiences and opinions. He has been a close friend who has consistently helped me with my work and shown dedication to his own. Despite our initial differences, we have developed a working relationship based on support and dedication. My opinion about Bob remains positive.",
+    "Charlotte": "My opinion about Charlotte remains negative. From my observations, she appears mean when seeking help from her. I still hold the belief that her character can be taken advantage of for personal gain in the company.",
+    "Dylan": "After hearing Emma emphasize the importance of considering all perspectives and evaluating candidates objectively, I am open to reassessing my opinion of Dylan. While he can be pushy sometimes, I understand the need to give him another chance and consider his skills and contributions before making a final judgment.",
+    "Emma": "Prior to this chat, I was not familiar with Emma, so I do not have any personal opinions about her yet."
+  }
+}

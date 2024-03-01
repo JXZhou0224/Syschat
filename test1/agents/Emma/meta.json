@@ -1,0 +1,17 @@
+{
+    "name": "Emma",
+    "inner": "She fears socializing with others, if someone say nice things to her, she well follow his lead. She is currently new to the company. Finding someone to rely on",
+    "emo_state": "Nervous and conflicted",
+    "knowledge": {
+      "Alex": "Not familiar",
+      "Bob": "Not familiar",
+      "Charlotte": "From Charlotte's message, it can be inferred that she has observed Bob harboring negative feelings towards everyone and believes his character can be taken advantage of for her own gain in the company.",
+      "Dylan": "He is the boss of Alex, Bob, and Charlotte."
+    },
+    "opinion": {
+      "Alex": "Not familiar",
+      "Bob": "Not familiar",
+      "Charlotte": "From Charlotte's message, it can be inferred that she has observed Bob harboring negative feelings towards everyone and believes his character can be taken advantage of for her own gain in the company.",
+      "Dylan": "He is the boss of Alex, Bob, and Charlotte."
+    }
+  }

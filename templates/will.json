@@ -1,0 +1,7 @@
+{
+    "message":{
+        "role": "user",
+        "content":"Your name is {}.\\n Your internal character is defined as:{}\\n  What you know about others:{} \\nYour opinions towards others are:{}\\n \\nHere are the history of the chat:{}\\n Your emotion state, evaluated on a scale of 1 to 5, just now is:{}\\n Base on the above information and chat history, how likely would you want to respond to the last chat message? \\noutput only a single interger on a scale of 1 to 5, don't include any other description\\n"
+    },
+    "max_tokens": 1
+}

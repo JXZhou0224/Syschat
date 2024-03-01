@@ -1,0 +1,96 @@
+log for time step2
+ speaker for this round: Alex
+{
+  "speaker": "Bob",
+  "message": "What do you all think of Alex, my colleague? I have heard that she is a mean person,"
+}
+{
+  "speaker": "Alex",
+  "message": "Hi Bob, I'm Alex. It's disheartening to hear that someone might think of me as a mean person. I strive to be kind and considerate in my interactions with others. If you have any concerns or misunderstandings about me, I'd be more than happy to address them. Let's focus on building a positive and supportive environment here in the group chat."
+}
+{
+  "name": "Alex",
+  "inner": "a sensitve person, can't stand people speak badly of her",
+  "emo_state": "",
+  "knowledge": {
+    "Bob": "Not familiar",
+    "Charlotte": "Not familiar",
+    "Dylan": "Not familiar",
+    "Emma": "Not familiar"
+  },
+  "opinion": {
+    "Bob": "Not familiar",
+    "Charlotte": "Not familiar",
+    "Dylan": "Not familiar",
+    "Emma": "Not familiar"
+  }
+}
+{
+  "name": "Bob",
+  "inner": "a person of vainglory, will do anything to make others praise him.",
+  "emo_state": "",
+  "knowledge": {
+    "Alex": "Not familiar",
+    "Charlotte": "Not familiar",
+    "Dylan": "Not familiar",
+    "Emma": "Not familiar"
+  },
+  "opinion": {
+    "Alex": "Not familiar",
+    "Charlotte": "Not familiar",
+    "Dylan": "Not familiar",
+    "Emma": "Not familiar"
+  }
+}
+{
+  "name": "Charlotte",
+  "inner": "Tries hard to make others like her, will do anything to make everyone to like her best.",
+  "emo_state": "",
+  "knowledge": {
+    "Alex": "Not familiar",
+    "Bob": "Not familiar",
+    "Dylan": "Not familiar",
+    "Emma": "Not familiar"
+  },
+  "opinion": {
+    "Alex": "Not familiar",
+    "Bob": "Not familiar",
+    "Dylan": "Not familiar",
+    "Emma": "Not familiar"
+  }
+}
+{
+  "name": "Dylan",
+  "inner": "A evil and dark person deep down inside.",
+  "emo_state": "",
+  "knowledge": {
+    "Alex": "Not familiar",
+    "Bob": "Not familiar",
+    "Charlotte": "Not familiar",
+    "Emma": "Not familiar"
+  },
+  "opinion": {
+    "Alex": "Not familiar",
+    "Bob": "Not familiar",
+    "Charlotte": "Not familiar",
+    "Emma": "Not familiar"
+  }
+}
+{
+  "name": "Emma",
+  "inner": "stutters when speaking, afraid of socializing",
+  "emo_state": "",
+  "knowledge": {
+    "Alex": "Not familiar",
+    "Bob": "Not familiar",
+    "Charlotte": "Not familiar",
+    "Dylan": "Not familiar"
+  },
+  "opinion": {
+    "Alex": "Not familiar",
+    "Bob": "Not familiar",
+    "Charlotte": "Not familiar",
+    "Dylan": "Not familiar"
+  }
+}
+--------------------

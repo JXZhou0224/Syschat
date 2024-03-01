@@ -1,8 +1,7 @@
 # SysChat: a LLM-based multiagent group chat simluation
----
+
 ## 
 ## Running
----
 
 to download:
 ```
@@ -43,7 +42,7 @@ Here are the possible options:
 
 
 ## Customization
----
+
 follow the template in `sim_5agents_template`
 to customize your own Group Chat
 

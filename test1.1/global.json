@@ -1,0 +1,18 @@
+{
+  "step": 23,
+  "agent_number": 5,
+  "agents": [
+    "Alex",
+    "Bob",
+    "Charlotte",
+    "Dylan",
+    "Emma"
+  ],
+  "will": {
+    "Alex": 3,
+    "Bob": 2,
+    "Charlotte": 2,
+    "Dylan": 3,
+    "Emma": 4
+  }
+}
